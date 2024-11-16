@@ -3,7 +3,7 @@ Final Project:
 
 Team Name: Team 16
 Owen Latt: owl9@pitt.edu
-Alex Mueller:
+Alex Mueller: aam332@pitt.edu
 Jermaine Howard:
 
 
